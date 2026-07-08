@@ -1,0 +1,122 @@
+
+# === KAMUS PARAMETER SELEKSI MASSAL WATER FUZZER ===
+# 1. Parameter Identitas & Kueri (SQLi / CMD / SSRF)
+id
+user_id
+username
+login
+email
+password
+account
+uid
+uuid
+token
+
+# 2. Parameter Jalur File & Navigasi (Path Traversal / LFI / RFI / Open Redirect)
+file
+filepath
+path
+dir
+directory
+folder
+filename
+page
+url
+redirect
+
+# 3. Parameter Input Konten & Form (XSS / SSTI)
+data
+input
+text
+content
+message
+comment
+title
+name
+search
+query
+
+# 4. Parameter Upload File
+upload
+file
+image
+avatar
+photo
+document
+attachment
+media
+icon
+logo
+
+# 5. Parameter API & Payload
+json
+xml
+payload
+body
+request
+params
+value
+object
+record
+metadata
+
+# 6. Parameter URL & Resource (SSRF)
+url
+uri
+endpoint
+target
+callback
+webhook
+host
+domain
+resource
+destination
+
+# 7. Parameter Konfigurasi & Sistem
+config
+env
+setting
+debug
+mode
+profile
+locale
+lang
+timezone
+feature
+
+# 8. Parameter Autentikasi & Sesi
+session
+sessionid
+sid
+token
+jwt
+auth
+apikey
+api_key
+csrf
+access_token
+
+# 9. Parameter Filter & Database
+filter
+sort
+order
+where
+group
+limit
+offset
+page
+keyword
+search
+
+# 10. Parameter Jaringan & Layanan
+host
+hostname
+ip
+port
+dns
+proxy
+server
+service
+client
+origin
+uuid
